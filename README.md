@@ -1,0 +1,1 @@
+This is a quick program I made to forward a xbox360 controllers inputs to a remote host using a vpn (not included) using UDP. This program create virtual controllers on the server which the commands are relayed to from the clients controllers
